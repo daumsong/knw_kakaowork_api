@@ -14,7 +14,7 @@ kakaowork_api.Info(codename='APY001', msg='여기에 메시지 입력', email_ad
 - email_adress_list: 수신자 이메일주소(리스트형태로 다수 발송가능) ,
 - api_key: Bot 생성 시 인증키
 <br><br>
-![KAKAOWORK_Share_2024_08_03_0 - 복사본](https://github.com/user-attachments/assets/c1e12754-694b-4229-87b2-b2eeed4a7ed6)
+![Info 결과](https://github.com/user-attachments/assets/c1e12754-694b-4229-87b2-b2eeed4a7ed6)
 
 
 \# **Success 함수**<br>
