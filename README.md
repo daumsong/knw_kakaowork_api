@@ -24,6 +24,7 @@ kakaowork_api.Success(codename='APY001', msg='여기에 메시지 입력', email
 - email_adress_list: 수신자 이메일주소(리스트형태로 다수 발송가능) ,
 - api_key: Bot 생성 시 인증키
 <br><br>
+![Success 결과](https://github.com/user-attachments/assets/e0230c11-d4fd-4ad0-a345-93faea79572e)
 
 
 \# **Error 함수**<br>
@@ -33,6 +34,7 @@ kakaowork_api.Error(codename='APY001', msg='여기에 메시지 입력', email_a
 - email_adress_list: 수신자 이메일주소(리스트형태로 다수 발송가능) ,
 - api_key: Bot 생성 시 인증키
 <br><br>
+![Error 결과](https://github.com/user-attachments/assets/674afe8f-de84-4d36-ac84-c5aacb9b1c40)
 
 
 \# **txt 함수**<br>
@@ -40,3 +42,5 @@ kakaowork_api.txt(text='여기에 메시지 입력', email_adress_list=['archon@
 - text: 텍스트 메시지 내용 ,
 - email_adress_list: 수신자 이메일주소(리스트형태로 다수 발송가능) ,
 - api_key: Bot 생성 시 인증키
+![txt 결과](https://github.com/user-attachments/assets/0ae48fd3-fea9-4325-82bc-c7c0347a0dd5)
+
