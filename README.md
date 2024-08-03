@@ -42,5 +42,6 @@ kakaowork_api.txt(text='여기에 메시지 입력', email_adress_list=['archon@
 - text: 텍스트 메시지 내용 ,
 - email_adress_list: 수신자 이메일주소(리스트형태로 다수 발송가능) ,
 - api_key: Bot 생성 시 인증키
+<br><br>
 ![txt 결과](https://github.com/user-attachments/assets/0ae48fd3-fea9-4325-82bc-c7c0347a0dd5)
 
