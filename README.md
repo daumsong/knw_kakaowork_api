@@ -1,6 +1,6 @@
 # 케이앤웍스 카카오워크 API
 
-## 알림 API 사용법
+### 알림 API 사용법
 
 \# 모듈 임포트<br>
 import kakaowork_api
