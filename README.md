@@ -2,7 +2,7 @@
 
 ### 알림 API 사용법
 
-\# 모듈 임포트<br>
+\# **모듈 임포트**<br>
 import kakaowork_api
 <br><br>
 
